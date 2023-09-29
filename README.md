@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018 -19<br>📚 I'm currently learning 2020<br>🎯 Goals: become a full-stuck developer<br>🎲 Fun fact: I use linux, but not Arch BTW</p>
+<p align="left">✨ Creating bugs since 2018 -19<br>📚 I'm currently learning since 2020<br>🎯 Goals: become a full-stuck developer<br>🎲 Fun fact: I use linux</p>
 
 ###
 
