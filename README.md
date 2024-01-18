@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Henrr0ry and I'm a software developer, from Czech Republic</p>
+<p align="left">My name is Henrr0ry and I'm a developer from Czech Republic</p>
 
 ###
 
